@@ -1,7 +1,7 @@
 # Applied_clip
 Applications of CLIP
 
- - Image Search
+ - Image Search ![image_search](image_search)
  
  - Zero Shot Image Classification
  
